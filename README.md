@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm A S RAKESH KRISHNA</h1>
-<h3 align="center">Student at Coimbatore institute of Technology</h3>
+<h3 align="center">Student at Coimbatore institute of Technology . Linux enthusiast .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-krishna&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-krishna" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakesh-krishna" alt="rakesh-krishna" /></a> </p>
+- 🌱 I’m currently learning **flask**
 
 - 📫 How to reach me **rakeshkrishna517@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
+<a href="https://twitter.com/asrakeshkrishn1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="asrakeshkrishn1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rakesh-krishna-a-s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rakesh-krishna-a-s" height="30" width="40" /></a>
+<a href="https://instagram.com/rakeshkrishna5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rakeshkrishna5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
