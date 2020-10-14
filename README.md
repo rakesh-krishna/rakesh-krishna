@@ -1,4 +1,4 @@
-<p align="center"> <img src="<p align="center"> <img src="https://cdn.dribbble.com/users/1787323/screenshots/6371250/lazy_programmer_dribbble-02_2x.png" alt="rakesh-krishna" height=350/> </p>" alt="rakesh-krishna" height=350/> </p>
+<p align="center"> <img src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif" alt="rakesh-krishna" height=350/> </p>
 <h1 align="center">Hi 👋, I'm A S RAKESH KRISHNA</h1>
 <h3 align="center">Student at Coimbatore institute of Technology . Linux enthusiast .</h3>
 
