@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **flask**
 
-- 📫 How to reach me **rakeshkrishna517@gmail.com**
+- 📫 How to reach me **asrakeshkrishna@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
